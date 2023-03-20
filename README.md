@@ -1,2 +1,2 @@
 # Movie-Recommendation
-This is an explicit recommendation system because it relies on explicit ratings provided by the users
+A recommendation system that relies on explicit ratings by the user to provide recommendations.
